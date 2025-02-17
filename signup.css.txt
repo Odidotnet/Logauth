@@ -1,0 +1,33 @@
+*{
+    background-color: #fff;
+}   
+
+.container{
+    /* width: 30%; */
+    margin: 70px auto;
+    display: flex !important;
+    padding: 40px;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.container .row {
+    width: 70%;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.input {
+    height: 50px !important;
+    margin-top: -0.4px !important;
+}
+
+label {
+    margin-top: -9px !important;
+}
+
+
+
+.needsValidation {
+    width: 100%;
+}
